@@ -14,7 +14,7 @@ DFRobotDFPlayerMini player;
 
 WebServer server(80);
 
-const char* ssid = "Ditnhautrencaycau";
+const char* ssid = "nguyentri";
 const char* password = "nguyentri";
 
 String currentSong = "0001.mp3";
